@@ -1,10 +1,6 @@
 # Oktopus REST API
 Algorithmic solution for budget optimization applied to paid media. 
 
-### Common
-
-There is a class to add details on errors messages. ( I don't thing it has been used )
-
 ### Models
 
 Classes for database. 
