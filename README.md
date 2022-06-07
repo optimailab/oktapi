@@ -1,4 +1,5 @@
-# OptimAI 1.1.1
+# Oktopus REST API
+Algorithmic solution for budget optimization applied to paid media. 
 
 ### Common
 
