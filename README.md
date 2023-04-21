@@ -1,13 +1,14 @@
 # Oktopus REST API
-Algorithmic solution for budget optimization applied to paid media. 
+
+Oktopus REST API is an algorithmic solution for automated budget optimization applied to paid media. This repository contains the backend code for the API.
 
 ### Models
 
-Classes for database. 
+This directory contains the classes for the database.
 
 ### Routers
 
-Create API endpoints
+This directory contains the API endpoints.
 
 ### Fast.py
 
